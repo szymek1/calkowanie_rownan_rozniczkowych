@@ -1,0 +1,2 @@
+# calkowanie_rownan_rozniczkowych
+calkowanie rownan roznickzowych zwyczajnych
