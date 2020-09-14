@@ -1,0 +1,4 @@
+﻿  lab4.2.cpp
+D:\projekty infromatyka\lab4.2\lab4.2\lab4.2.cpp(96,40): warning C4244: "argument": konwersja z "double" do "size_t", możliwa utrata danych
+D:\projekty infromatyka\lab4.2\lab4.2\lab4.2.cpp(116,36): warning C4244: "argument": konwersja z "double" do "size_t", możliwa utrata danych
+  lab4.2.vcxproj -> D:\projekty infromatyka\lab4.2\Debug\lab4.2.exe
